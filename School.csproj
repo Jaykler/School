@@ -12,11 +12,9 @@
     <Folder Include="BL\Exceptions\" />
     <Folder Include="BL\Core\" />
     <Folder Include="Data\Context\" />
-    <Folder Include="Data\Core\" />
     <Folder Include="Data\Models\" />
     <Folder Include="Data\Interfaces\" />
     <Folder Include="Data\Exceptions\" />
-    <Folder Include="Data\Entities\" />
   </ItemGroup>
 
 </Project>
