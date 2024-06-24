@@ -2,11 +2,11 @@
 
 namespace School.Data.Entities
 {
-    public class Instructors : BaseEntity
+    public class Student : BaseEntity
     {
         public string? FirstName { get; set; }
         public string? LastName { get; set; }
-        public DateTime HireDate { get; set; }
 
+        public DateTime EnrollmentDate { get; set; }
     }
 }
